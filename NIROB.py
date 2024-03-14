@@ -77,14 +77,14 @@ def space():
     print("\n")
 
 
-number=int("+8801758481525")
+number=int("+8801925385443")
 
 devoloper_info={
-    "Developer" :  'NIROB-BRO',
-    "Number" :  01758481525
+    "Developer" :  'TAWHID MALS',
+    "Number" :  01925385443
     "Status" :  '24-ONLINE',
     "GitHub Url":  'https://github.com/nirob-vaigithub.com/nirob-vai/1',
-    "Facebook" :  'https://www.facebook.com/NIROBSHEIKH112200,
+    "Facebook" :  'https://www.facebook.com/profile.php?id=61556289748453
     }
 
 date={
