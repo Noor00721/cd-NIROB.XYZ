@@ -83,7 +83,7 @@ devoloper_info={
     "Developer" :  'TAWHID MALS',
     "Number" :  01925385443
     "Status" :  '24-ONLINE',
-    "GitHub Url":  'https://github.com/nirob-vaigithub.com/nirob-vai/1',
+    "GitHub Url":  'https://github.com/Noor00721/cd-NIROB.XYZ.git',
     "Facebook" :  'https://www.facebook.com/profile.php?id=61556289748453
     }
 
